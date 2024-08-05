@@ -10,7 +10,7 @@ Description :
 
 • Created Undo-Redo features forthe board using Arrays as a stack by storing Positions, Colours and width of the Pen and Eraser 
 
-• Link : https://tarundvn.github.io/WhiteBoard/
+• Link : https://ShayadRon.github.io/WhiteBoard/
 # whiteboard
 # whiteboard
 # whiteboard
