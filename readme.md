@@ -1,16 +1,17 @@
-White-Board-Clone
+# WhiteBoard 
+WhiteBoard is created using HTML, CSS, JavaScript, Canvas API.
+# Features and Demo: 
+• Pen tool
+![](Screenshots/pentool.png)
 
-Tech Stack Used : HTML, CSS, JavaScript,Canvas API 
+• Eraser tool
+![](Screenshots/eraser.png)
 
-Description : 
+• Sticky Notes
+![](Screenshots/stickyNotes.png)
 
-• Created a Openboard clone built using JavaScript, HTML and CSS. 
+• Import image to your canvas
+![](Screenshots/importImage.png)
 
-• Allows userto draw, add images, sticky notes and download it in JPG format. 
-
-• Created Undo-Redo features forthe board using Arrays as a stack by storing Positions, Colours and width of the Pen and Eraser 
-
-• Link : https://ShayadRon.github.io/WhiteBoard/
-# whiteboard
-# whiteboard
-# whiteboard
+• Download canvas as a JPG file
+![](Screenshots/download.png)
