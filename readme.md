@@ -1,6 +1,6 @@
 # WhiteBoard 
 WhiteBoard is created using HTML, CSS, JavaScript, Canvas API.
-[https://whiteboard-indol.vercel.app/](Click here to test.)
+[Click here to test](https://whiteboard-indol.vercel.app/)
 # Features and Demo: 
 • Pen tool
 ![](Screenshots/pentool.png)
